@@ -1,0 +1,13 @@
+.app
+{
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    background: #CCC;
+    border: 1px solid #000;
+}
+
+.app__text
+{
+    font-size: 30px;
+}

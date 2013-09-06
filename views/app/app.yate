@@ -1,0 +1,5 @@
+match .app ns-view-content {
+    <div class="app">
+        <div class="app__text">This is app view</div>
+    </div>
+}
